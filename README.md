@@ -1,20 +1,75 @@
-# Neuroscience Research Portfolio
+# 🧠 Neuroscience Research Portfolio
 
-A personal research portfolio documenting my learning, questions, literature research, and projects in neuroscience.
+A personal research portfolio documenting my journey into **neuroscience, medicine, and computational research**.
 
-## Current project
+This repository is a living record of questions I investigate, scientific papers I read, research writing, experiments, data analysis, and projects I build.
 
-### Stroke Awareness and Early Recognition
+> **Long-term direction:** neuroscience → medicine → neurology
 
-A literature-based project exploring why stroke symptoms can be recognized late, the consequences of delayed recognition, and possible ways to improve awareness and early response.
+## 🎯 Current focus
 
-## Repository structure
+### Brain Bee
+Preparing for the Brain Bee with the long-term goal of competing at national level. This repository documents the knowledge, questions, resources, and study progress behind that preparation.
+
+### 🔬 Research
+Current research project:
+
+**Stroke Awareness and Early Recognition**
+
+A literature-based investigation into why stroke symptoms can be recognized late, the consequences of delayed recognition, and possible approaches to improving awareness and early response.
+
+### 💻 Computational neuroscience
+Exploring how programming, statistics, data analysis, and AI can be used to investigate questions about the brain.
+
+### 🧪 STEM Lab
+Developing a student STEM initiative at school. The goal is to create a space where students investigate problems, design experiments, build projects, analyze data, and present results.
+
+## 📁 Repository structure
 
 - `research-log.md` — dated record of research progress
-- `questions.md` — neuroscience questions I want to investigate
-- `sources.md` — research sources and notes about how they were used
-- `stroke-awareness/` — materials for the current stroke project
+- `questions.md` — neuroscience questions that may become future research
+- `sources.md` — papers, books, websites, and source notes
+- `research-papers/` — research writing and literature reviews
+- `projects/` — experimental, computational, and data projects
+- `brain-bee/` — Brain Bee preparation and knowledge tracking
+- `stem-lab/` — materials and documentation for the STEM Lab initiative
+- `reading-notes/` — structured notes from scientific papers
+- `stroke-awareness/` — current stroke-awareness project
 
-## Approach
+## 🔬 Research workflow
 
-This repository is intended to document the development of my work over time. Drafts, notes, revisions, and final versions should be kept with accurate dates and source information.
+For each substantial project, I aim to document:
+
+1. Research question
+2. Background and existing evidence
+3. Hypothesis or objective
+4. Method / approach
+5. Data or evidence
+6. Analysis
+7. Results
+8. Limitations
+9. Conclusion
+10. Questions for future research
+
+## 📚 Reading workflow
+
+For scientific papers, I record:
+
+- Research question
+- Methods
+- Main findings
+- Limitations
+- Important figures/results
+- My questions and ideas for follow-up research
+
+## ⚠️ Research ethics
+
+This portfolio is educational and research-oriented. Human-subject projects will only be designed or conducted with appropriate consent, privacy protections, and any required school/institutional supervision. No identifying or sensitive participant data will be published here.
+
+## 📈 Progress
+
+This repository is intentionally developed over time. Drafts, failed approaches, revisions, and final results may be documented so that the development of each project is transparent.
+
+---
+
+**Last updated:** August 2026
